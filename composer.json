@@ -1,0 +1,16 @@
+{
+    "name": "potter/output-buffer-interfaces",
+    "description": "PHP Output Buffer Interface Collection",
+    "type": "metapackage",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
