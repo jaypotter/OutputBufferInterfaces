@@ -7,6 +7,13 @@
         "potter/output-buffer-interface": "dev-main",
         "potter/output-buffer-aware-interface": "dev-main"
     },
+    "suggest": {
+        "potter/output-buffer": "dev-main",
+        "potter/buffer-interfaces": "dev-main",
+        "potter/buffer": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
